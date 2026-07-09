@@ -1,0 +1,1 @@
+Copy the .github folder into the repository root and push.
